@@ -1,4 +1,28 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+	background-color:black;
+	color:white;
+	font-family: arial;
+}
+h1{
+	color:gray;
+	font-family:verdana;
+}
+.maindiv {
+	margin: auto;
+	background-color:white;
+	color:black;
+	width:540px;
+	padding:20px;
+	border-radius:25px;
+}
+.inputs{
+	padding-left: 80px;
+}
+th, td {
+  padding-bottom: 5px;
+}
+.highlight {
+	background-color:yellow;
+}
 
 
